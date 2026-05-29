@@ -12,6 +12,7 @@ Created an interactive Amazon Sales Dashboard in Microsoft Excel. The dashboard 
 🚚 Order Status Distribution
 🎯 Interactive Slicers for Filtering
 📌 KPI Cards for Revenue, Orders,Avg order, Quantity Sold & Delivery %
+
 **🛠 Tools & Skills Used**
 📊 Microsoft Excel
 📌 Pivot Tables
@@ -20,6 +21,7 @@ Created an interactive Amazon Sales Dashboard in Microsoft Excel. The dashboard 
 📍 Slicers & Interactive Filters
 📑 Data Cleaning & Formatting
 📈 Business Data Analysis
+
 **💡 Key Insights**
 Electronics category generated the highest revenue.
 Delivered orders contributed the majority of total sales.
